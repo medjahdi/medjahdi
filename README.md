@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Medjahdi</h1>
-<h3 align="center">A passionate Software Developer & Penetration Tester</h3>
+<h3 align="center">A passionate Software Engineer & Penetration Tester</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medjahdi" alt="medjahdi" /></a> </p>
 
