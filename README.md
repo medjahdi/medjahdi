@@ -139,5 +139,5 @@
 <tr>
 <td width="50%">
 
-### 🚀 Senior Full Stack Developer
-**Hypird** | 🇬🇧 Remote, UK
+### Cyber Security Engineer
+**Hypird** |  Hypird, DZ
