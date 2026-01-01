@@ -140,4 +140,4 @@
 <td width="50%">
 
 ### Cyber Security Engineer
-**Hypird** |  Hypird, DZ
+**SocShield** |  Hypird, DZ
