@@ -1,4 +1,4 @@
-### 🧠👨‍💻 Software Engineer & 🔐 Cyber Security Specialist  
+###  Software Engineer &  Cyber Security Specialist  
 **🏢 SocShield** · 🌍 Hybrid · 🇩🇿 Algeria  
 
 <p>
