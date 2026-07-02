@@ -1,5 +1,4 @@
-###  Software Engineer &  Cyber Security Specialist  
-**🏢 SocShield** · 🌍 Hybrid · 🇩🇿 Algeria  
+###  Software Engineer &  Cyber Security Specialist   
 
 <p>
   <img src="https://img.shields.io/badge/Secure%20Software-%2316A34A?style=for-the-badge&logo=vercel&logoColor=white"/>
